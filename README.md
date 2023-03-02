@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+This account contains my **most projects**.
 
+Here is the link to my [Personal Homepage](https://zewen-yang.github.io)
+
+> **Note:** This account is distinct from the one, where Web and App repositories are located. For additional repositories, please visit my [other account](https://github.com/Zewen-Yang). 
+
+Thanks for visting!
 
 <!--
 **alwinyang91/alwinyang91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

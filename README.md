@@ -27,6 +27,8 @@ This account is distinct from the one, where Web and App repositories are locate
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./images/notion_logo.svg" />
+<img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./images/overleaf_logo.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
 <br />
@@ -92,13 +94,14 @@ This account is distinct from the one, where Web and App repositories are locate
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141.svg?logo=overleaf&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   </p>
 </details>
 
-<details open> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+<details> 
+  <summary><h3>📊 Github Stats and Activity</h3></summary>
 
   <h3>🔥 Streak Stats</h3>
 
@@ -136,6 +139,7 @@ This account is distinct from the one, where Web and App repositories are locate
 <!--END_SECTION:activity-->
 
 </details>
+
 <!--
 **alwinyang91/alwinyang91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

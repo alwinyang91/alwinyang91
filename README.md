@@ -70,6 +70,7 @@ This account is distinct from the one, where Web and App repositories are locate
     <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-2D50A5.svg?logo=seaborn&logoColor=white"></a>
     <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
     <a href="#"><img alt="openai" src="https://img.shields.io/badge/openai-412991.svg?logo=openai&logoColor=white"></a>
+    <a href="#"><img alt="fastai" src="https://custom-icon-badges.demolab.com/badge/fastai-00A98F.svg?logo=logo_square&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -89,11 +90,51 @@ This account is distinct from the one, where Web and App repositories are locate
   <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   </p>
 </details>
 
+<details open> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="alwinyang 91 streak" src="https://streak-stats.demolab.com/?user=alwinyang91&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alwinyang91's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alwinyang91&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alwinyang91's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alwinyang91&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="alwinyang91's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=alwinyang91&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <!-- <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+<!-- 1. 🎉 Merged PR [#69](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/69) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
+1. 🎉 Merged PR [#11](https://github.com/DenverCoder1/play-lichess/pull/11) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+2. 💪 Opened PR [#11](https://github.com/DenverCoder1/play-lichess/pull/11) in [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess)
+3. 💪 Opened PR [#9832](https://github.com/python/typeshed/pull/9832) in [python/typeshed](https://github.com/python/typeshed)
+4. 🎉 Merged PR [#100](https://github.com/DenverCoder1/table2ascii/pull/100) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) --> 
+<!--END_SECTION:activity-->
+
+</details>
 <!--
 **alwinyang91/alwinyang91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,11 +4,13 @@
 I am a data scientist/machine learning researcher at Data Scientist Retreat in Berlin and a Ph.D. holder in Computer Science and Control Theory from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Machine Learning, Robotics, and Multi-Agent System.
 </p>
 
-<a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20Me-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+<a href="https://zewen-yang.github.io/"><img alt="More about me" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20Me-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
 > **Note:** This account contains my **most projects**.
 
-This account is distinct from the one, where Web and App repositories are located. For additional repositories, please visit my [other account](https://github.com/Zewen-Yang). 
+This account is distinct from the one, where Web and App repositories are located. For additional repositories, please visit my other account. 
+
+<a href="https://github.com/Zewen-Yang"><img alt="Web & App" src="https://custom-icon-badges.demolab.com/badge/-Web%20&%20App Account-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
 ### Thanks for visting!
 

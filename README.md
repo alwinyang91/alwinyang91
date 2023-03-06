@@ -1,6 +1,6 @@
-### Hi, I am Zewen Yang. 👋
+<img align="right" alt="GIF" src="./images/debug.gif" width="300" />
 
- <img align="right" alt="GIF" src="./images/debug.gif" width="300" />
+### Hi, I am Zewen Yang. 👋
 
 <p>
 I am a data scientist/machine learning researcher at Data Scientist Retreat in Berlin and a Ph.D. holder in Computer Science and Control Theory from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Machine Learning, Robotics, and Multi-Agent System.

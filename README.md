@@ -16,7 +16,7 @@ This account is distinct from the one, where Web and App repositories are locate
 
 ---
 
-### 🧰 My Dayily Languages and Tools
+### 🧰 My Daily Languages and Tools
 <p>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />      
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />

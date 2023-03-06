@@ -37,7 +37,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
 #
 
 <details > 
-    <summary><h3>🛠️ My Used Tools</h3></summary>
+    <summary><h4>🛠️ My Used Tools</h4></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>

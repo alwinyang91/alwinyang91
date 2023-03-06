@@ -37,7 +37,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
 #
 
 <details > 
-    <summary>🛠️ **My Used Tools**</summary>
+    <summary><h3 style="margin-top: 0.5em;" >🛠️ My Used Tools</h3></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -102,7 +102,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
 </details>
 
 <details> 
-  <summary><h4>📊 Github Stats and Activity</h4></summary>
+  <summary><h3>📊 Github Stats and Activity</h3></summary>
 
   > <b>Note:</b> The stats and activity of this account are metrics only of my public code and do not reflect my overall experience or skill level.
 

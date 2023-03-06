@@ -104,7 +104,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
 <details> 
   <summary><h3>📊 Github Stats and Activity</h3></summary>
 
-  > <b>Note:</b> The stats and activity are metrics of this account my public code consists of only and don't reflect overall experience or skill level.
+  > <b>Note:</b> The stats and activity of this account are metrics only of my public code and do not reflect my overall experience or skill level.
 
   <h3>🔥 Streak Stats</h3>
 

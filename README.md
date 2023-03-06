@@ -1,5 +1,7 @@
 ### Hi, I am Zewen Yang. 👋
 
+ <img align="right" alt="GIF" src="./images/debug.gif" width="400" />
+
 <p>
 I am a data scientist/machine learning researcher at Data Scientist Retreat in Berlin and a Ph.D. holder in Computer Science and Control Theory from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Machine Learning, Robotics, and Multi-Agent System.
 </p>
@@ -36,7 +38,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
 
 #
 
-<details style="margin-top: -1em;"> 
+<details> 
     <summary><h3>🛠️ My Used Tools</h3></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -101,8 +103,8 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
   </p>
 </details>
 
-<details style="margin-top: -1em;"> 
-  <summary><h3 style="margin-top: -1em;">📊 Github Stats and Activity</h3></summary>
+<details> 
+  <summary><h3>📊 Github Stats and Activity</h3></summary>
 
   > <b>Note:</b> The stats and activity of this account are metrics only of my public code and do not reflect my overall experience or skill level.
 

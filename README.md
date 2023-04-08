@@ -79,6 +79,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
     <a href="#"><img alt="fastai" src="https://custom-icon-badges.demolab.com/badge/fastai-00A98F.svg?logo=logo_square&logoColor=white"></a>
     <a href="#"><img alt="flask" src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
     <a href="#"><img alt="fastapi" src="https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
 
   </p>
 

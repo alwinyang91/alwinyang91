@@ -38,7 +38,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
 
 #
 
-<details> 
+<details open> 
     <summary><h3>🛠️ My Used Tools</h3></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -47,8 +47,8 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
     <a href="#"><img alt="MATLAB" src="https://custom-icon-badges.demolab.com/badge/MATLAB/Simulink-61DAFB.svg?logo=matlab_icon&logoColor=white"></a>
     <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
@@ -77,6 +77,9 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
     <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
     <a href="#"><img alt="openai" src="https://img.shields.io/badge/openai-412991.svg?logo=openai&logoColor=white"></a>
     <a href="#"><img alt="fastai" src="https://custom-icon-badges.demolab.com/badge/fastai-00A98F.svg?logo=logo_square&logoColor=white"></a>
+    <a href="#"><img alt="flask" src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+    <a href="#"><img alt="fastapi" src="https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
+
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -88,6 +91,8 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=Streamlit&logoColor=white"></a>
+    <a href="#"><img alt="Render" src="https://custom-icon-badges.demolab.com/badge/Render-46E3B7.svg?logo=render&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://custom-icon-badges.demolab.com/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
   </p>
 
@@ -99,6 +104,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
     <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141.svg?logo=overleaf&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://custom-icon-badges.demolab.com/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   </p>
 </details>

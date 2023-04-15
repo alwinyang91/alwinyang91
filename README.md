@@ -65,6 +65,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
     <a href="#"><img alt="ROS" src="https://img.shields.io/badge/ROS-22314E.svg?logo=ros&logoColor=white"></a>
     <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit%20learn-8CAAE6.svg?logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="statsmodels" src="https://custom-icon-badges.demolab.com/badge/statsmodels-4934BF.svg?logo=statsmodels-logo&logoColor=white"></a>
+    <a href="#"><img alt="pyspark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apachespark&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
     <a href="#"><img alt="D3" src="https://img.shields.io/badge/D3.js-F9A03C.svg?logo=d3.js&logoColor=white"></a>
     <a href="#"><img alt="Gazebo" src="https://custom-icon-badges.demolab.com/badge/Gazebo-FF7800.svg?logo=gazebo_icon&logoColor=white"></a>
@@ -90,6 +91,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
     <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=GitLab&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
+    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoftazure&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=Streamlit&logoColor=white"></a>
     <a href="#"><img alt="Render" src="https://custom-icon-badges.demolab.com/badge/Render-46E3B7.svg?logo=render&logoColor=white"></a>

@@ -92,6 +92,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoftazure&logoColor=white"></a>
+    <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=Streamlit&logoColor=white"></a>
     <a href="#"><img alt="Render" src="https://custom-icon-badges.demolab.com/badge/Render-46E3B7.svg?logo=render&logoColor=white"></a>

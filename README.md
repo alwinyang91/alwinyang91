@@ -3,14 +3,14 @@
 <img align="right" alt="GIF" src="./images/debug.gif" width="300" />
 
 <p>
-I am a data scientist/machine learning researcher at Data Scientist Retreat in Berlin and a Ph.D. holder in Computer Science and Control Theory from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Machine Learning, Robotics, and Multi-Agent System.
+I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute in Berlin and a Ph.D. holder in Computer Science and Control Theory from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, Bioinfromatics, and Data Visualization.
 </p>
 
-<a href="https://zewen-yang.github.io/"><img alt="More about me" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20Me-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+<a href="https://zewen-yang.github.io/"><img alt="More about me" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20Me &raquo&raquo&raquo  -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
 > **Note:** This account contains my **most projects** and is distinct from the one, where Web and App repositories are located. For additional repositories, please visit my other account. 
 
-<a href="https://github.com/Zewen-Yang"><img alt="Web & App" src="https://custom-icon-badges.demolab.com/badge/-Web%20&%20App Account-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+<a href="https://github.com/Zewen-Yang"><img alt="Web & Research" src="https://custom-icon-badges.demolab.com/badge/-Visit My Web%20&%20Research Account &raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
 ### Thanks for visting!
 
@@ -19,10 +19,10 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
 ### 🧰 My Daily Languages and Tools
 <p>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />      
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />    
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -44,12 +44,13 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
 
   <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="MATLAB" src="https://custom-icon-badges.demolab.com/badge/MATLAB/Simulink-61DAFB.svg?logo=matlab_icon&logoColor=white"></a>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="MATLAB" src="https://custom-icon-badges.demolab.com/badge/matlab-blue.svg?logo=box&logoSource=feather"></a>
+    <a href="#"><img alt="Julia" src="https://custom-icon-badges.demolab.com/badge/julia-9558B2.svg?logo=julia&logoColor=white"></a>
+    <!-- <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a> -->
     <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
@@ -68,6 +69,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
     <a href="#"><img alt="pyspark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apachespark&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
     <a href="#"><img alt="D3" src="https://img.shields.io/badge/D3.js-F9A03C.svg?logo=d3.js&logoColor=white"></a>
+    <a href="#"><img alt="Observable" src="https://img.shields.io/badge/Observable-353E58.svg?logo=observable&logoColor=white"></a>
     <a href="#"><img alt="Gazebo" src="https://custom-icon-badges.demolab.com/badge/Gazebo-FF7800.svg?logo=gazebo_icon&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
@@ -138,7 +140,7 @@ I am a data scientist/machine learning researcher at Data Scientist Retreat in B
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="alwinyang91's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=alwinyang91&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ZewenYang's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=alwinyang91&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <!-- <h3>⚡ Recent GitHub Activity</h3>
 

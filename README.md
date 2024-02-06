@@ -12,8 +12,6 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 
 <a href="https://github.com/Zewen-Yang"><img alt="Web & Research" src="https://custom-icon-badges.demolab.com/badge/-Visit My Web%20&%20Research Account &raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
-### Thanks for visting!
-
 ---
 
 ### 🧰 My Daily Languages and Tools

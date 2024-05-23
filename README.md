@@ -8,9 +8,9 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 
 <a href="https://zewen-yang.github.io/"><img alt="More about me" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20Me &raquo&raquo&raquo  -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
-> **Note:** This account contains my **most projects** and is distinct from the one, where Web and App repositories are located. For additional repositories, please visit my other account. 
+> **Note:** This account contains my **most projects** and is distinct from the one, where **Research, Web and App** repositories are located. For additional repositories, please visit my other account. 
 
-<a href="https://github.com/Zewen-Yang"><img alt="Web & Research" src="https://custom-icon-badges.demolab.com/badge/-Visit My Web%20&%20Research Account &raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+<a href="https://github.com/Zewen-Yang"><img alt="Research & Web/App" src="https://custom-icon-badges.demolab.com/badge/-Visit My Research %20&%20 Web/App Account &raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
 ---
 

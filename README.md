@@ -6,7 +6,7 @@
 I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute in Berlin and a Ph.D. holder in Computer Science and Control Theory from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, Bioinfromatics, and Data Visualization.
 </p>
 
-<a href="https://zewen-yang.github.io/"><img alt="More about me" src="https://custom-icon-badges.demolab.com/badge/-Homepage &raquo&raquo&raquo  -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+<a href="https://zewen-yang.github.io/"><img alt="More about me" src="https://custom-icon-badges.demolab.com/badge/-Personal Homepage &raquo&raquo&raquo  -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
 > **Note:** This account contains my **most projects** and is distinct from the one, where **Research, Web and App** repositories are located. For additional repositories, please visit my other account. 
 

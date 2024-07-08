@@ -73,6 +73,7 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
     </li>
     <li>Front-end & Visulization:
     </br>
+    <a href="#"><img alt="react" src="https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="sass" src="https://custom-icon-badges.demolab.com/badge/Sass-CC6699.svg?logo=sass&logoColor=white"></a>
     <a href="#"><img alt="D3" src="https://img.shields.io/badge/D3.js-F9A03C.svg?logo=d3.js&logoColor=white"></a>
@@ -87,7 +88,6 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=Django&logoColor=white"></a>
     <a href="#"><img alt="flask" src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
     <a href="#"><img alt="fastapi" src="https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
-    <a href="#"><img alt="react" src="https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black"></a>
     <a href="#"><img alt="Postman" src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white"></a>
     <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white"></a>

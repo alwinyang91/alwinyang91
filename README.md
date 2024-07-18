@@ -16,11 +16,10 @@ This account only contains my **Research & Web/App** portfolio:
 
 #### Web & App:
 - [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
-- [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/)
-- [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
 - [Research Mate Recommendation](https://research-mate.onrender.com/)
 - [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
-
+<!-- - [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/) -->
+<!-- - [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app) -->
 > 
 > **Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my another account.
 

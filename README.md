@@ -1,23 +1,37 @@
 ### Hi, I am Zewen Yang. 👋
 
 <img align="right" alt="GIF" src="./images/debug.gif" width="300" />
-
 <p>
 I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute in Berlin and a Ph.D. holder in Computer Science and Control Science & Engineering from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, Bioinfromatics, and Data Visualization.
 </p>
 
-<a href="https://zewen-yang.github.io/"><img alt="More about me" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Homepage%20&raquo&raquo&raquo  -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+<a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Homepage%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
-> **Note:** This account contains my **most projects** and is distinct from the one, where **Research, Web and App** repositories are located. For additional repositories, please visit my other account. 
+This account only contains my **Research & Web/App** portfolio:
 
-<a href="https://github.com/Zewen-Yang"><img alt="Research & Web/App" src="https://custom-icon-badges.demolab.com/badge/-Visit%20My%20Research%20&%20Web/App%20Account%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+#### Research Project Code:
+- [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration)
+- [AAMAS2024: Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
+
+
+#### Web & App:
+- [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
+- [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/)
+- [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app)
+- [Research Mate Recommendation](https://research-mate.onrender.com/)
+- [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
+
+> 
+> **Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my another account.
+
+
+<a href="https://github.com/alwinyang91"><img alt="Main" src="https://custom-icon-badges.demolab.com/badge/-Visit My Main%20Account &raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
 ---
-
 ### 🧰 My Daily Languages and Tools
 <p>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />      
-<img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Julia" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -25,7 +39,7 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 <img align="left" alt="Latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />    
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<!-- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> -->
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./images/notion_logo.svg" />
 <img align="left" alt="Overleaf" width="30px" style="padding-right:10px;" src="./images/overleaf_logo.svg" />
@@ -47,6 +61,7 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
     <!-- <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a> -->
     <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -70,20 +85,25 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
     <a href="#"><img alt="huggingface" src="https://img.shields.io/badge/Transformers/Tokenizers-FFD21E.svg?logo=huggingface&logoColor=black"></a>
     <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-09A3D5.svg?logo=spacy&logoColor=white"></a>
     <a href="#"><img alt="fastai" src="https://custom-icon-badges.demolab.com/badge/fastai-00A98F.svg?logo=logo_square&logoColor=white"></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     </li>
-    <li>Front-end & Visulization:
+    <li>Frontend & Visulization:
     </br>
-    <a href="#"><img alt="react" src="https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black"></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="sass" src="https://custom-icon-badges.demolab.com/badge/Sass-CC6699.svg?logo=sass&logoColor=white"></a>
     <a href="#"><img alt="D3" src="https://img.shields.io/badge/D3.js-F9A03C.svg?logo=d3.js&logoColor=white"></a>
     <a href="#"><img alt="Vega" src="https://img.shields.io/badge/Vega--Lite/--Altair-2450B2.svg?logo=Vega&logoColor=white"></a>
     <a href="#"><img alt="Observable" src="https://img.shields.io/badge/Observable-353E58.svg?logo=observable&logoColor=white"></a>
     <a href="#"><img alt="plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
-    <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-334455.svg?logo=matplotlib-logo&logoColor=white"></a>
+    <a href="#"><img alt="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-334455.svg?logo=matplotlib-logo&logoColor=white"></a>
     <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-2D50A5.svg?logo=seaborn&logoColor=white"></a>
+    <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/GeoPandas-139C5A.svg?logo=geopandas&logoColor=white"></a>
     </li>
-    <li>Back-end:
+    <li>Backend:
     </br>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=Django&logoColor=white"></a>
     <a href="#"><img alt="flask" src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
@@ -120,18 +140,19 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
     <!-- <a href="#"><img alt="Render" src="https://custom-icon-badges.demolab.com/badge/Render-46E3B7.svg?logo=render&logoColor=white"></a> -->
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <!-- <a href="#"><img alt="Heroku" src="https://custom-icon-badges.demolab.com/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a> -->
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
     <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141.svg?logo=overleaf&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    
   </p>
 
   <h3>💻 Softwares</h3>
   <p>
-    <a href="#"><img alt="PyCharm" src="https://custom-icon-badges.demolab.com/badge/VS Code-white.svg?logo=vs-code&logoColor=black"></a>
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white"></a>
     <!-- <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> -->
-    <a href="#"><img alt="PyCharm" src="https://custom-icon-badges.demolab.com/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
+    <!-- <a href="#"><img alt="PyCharm" src="https://custom-icon-badges.demolab.com/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a> -->
+    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://custom-icon-badges.demolab.com/badge/VS Code-white.svg?logo=vs-code&logoColor=black"></a>
   </p>
 </details>
 
@@ -145,7 +166,7 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="alwinyang 91 streak" src="https://streak-stats.demolab.com/?user=alwinyang91&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="zewen-yang streak" src="https://streak-stats.demolab.com/?user=zewen-yang&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
@@ -153,14 +174,14 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alwinyang91's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alwinyang91&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alwinyang91's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alwinyang91&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="zewen-yang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alwinyang91&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="zewen-yang's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zewen-yang&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
-
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ZewenYang's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=alwinyang91&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ZewenYang's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Zewen-Yang&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <!-- <h3>⚡ Recent GitHub Activity</h3>
 
@@ -176,8 +197,9 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 
 </details>
 
+
 <!--
-**alwinyang91/alwinyang91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zewen-Yang/Zewen-Yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="./images/debug.gif" width="300" />
 <p>
-I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute in Berlin and a Ph.D. holder in Computer Science and Control Science & Engineering from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, Bioinfromatics, and Data Visualization.
+I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute based in Berlin. I have earned my Ph.D. in Computer Science and Control Science & Engineering from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, Bioinfromatics, and Data Visualization.
 </p>
 
 <a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Homepage%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>

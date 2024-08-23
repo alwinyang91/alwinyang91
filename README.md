@@ -2,30 +2,14 @@
 
 <img align="right" alt="GIF" src="./images/debug.gif" width="300" />
 <p>
-I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute based in Berlin. I have earned my Ph.D. in Computer Science and Control Science & Engineering from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, Bioinfromatics, and Data Visualization.
+I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Public Health Research, Robert Koch Institute based in Berlin. I have earned my Ph.D. in Computer Science and Control Science & Engineering from the Technical University of Munich and Harbin Engineering University. My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, and Data Representation.
 </p>
 
 <a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Homepage%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
-This account only contains my **Research & Web/App** portfolio:
+> **Note:** This account contains my **most projects** and is distinct from the one, where **Research, Web and App** repositories are located. For additional repositories, please visit my other account. 
 
-#### Research Project Code:
-- [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration)
-- [AAMAS2024: Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
-
-
-#### Web & App:
-- [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
-- [Research Mate Recommendation](https://research-mate.onrender.com/)
-- [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
-<!-- - [Interative Dashboard](https://zewen-yang.github.io/Vis-PANDEMICS-Dashboard/) -->
-<!-- - [Telco Churn Prediction](https://zewen-yang-churn-prediction-streamlit-streamlit-app-full-g5x4nu.streamlit.app) -->
-> 
-> **Note:** This account is distinct from the main one, where other repositories are located. For additional repositories, please visit my another account.
-
-
-<a href="https://github.com/alwinyang91"><img alt="Main" src="https://custom-icon-badges.demolab.com/badge/-Visit My Main%20Account &raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-
+<a href="https://github.com/Zewen-Yang"><img alt="Research & Web/App" src="https://custom-icon-badges.demolab.com/badge/-Visit%20My%20Research%20&%20Web/App%20Account%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 ---
 ### 🧰 My Daily Languages and Tools
 <p>

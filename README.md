@@ -9,7 +9,19 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 
 > **Note:** This account contains my **most projects** and is distinct from the one, where **Research, Web and App** repositories are located. For additional repositories, please visit my other account. 
 
+#### Research Project Code:
+- [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration)
+- [AAMAS2024: Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
+
+
+#### Web & App:
+- [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
+- [xVision](https://xvision-orcin.vercel.app/)
+- [Research Mate Recommendation](https://research-mate.onrender.com/)
+- [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
+
 <a href="https://github.com/Zewen-Yang"><img alt="Research & Web/App" src="https://custom-icon-badges.demolab.com/badge/-Visit%20My%20Research%20&%20Web/App%20Account%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+
 ---
 ### 🧰 My Daily Languages and Tools
 <p>

@@ -16,7 +16,7 @@ I am a Postdoctoral Researcher at the Center for Artificial Intelligence in Publ
 
 #### Web & App:
 - [Harry Potter Network](https://zewen-yang.github.io/Harry-Potter-Network/)
-- [xVision](https://xvision-orcin.vercel.app/)
+- [xViSion (under development)](https://xvision-orcin.vercel.app/)
 - [Research Mate Recommendation](https://research-mate.onrender.com/)
 - [Random Clusters](https://zewen-yang.github.io/Random-Clusters/)
 

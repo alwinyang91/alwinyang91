@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" src="./images/debug.gif" width="300" />
 <p>
-I am a Postdoctoral Researcher and Full-Stack Developer at the Technical University of Munich based in Munich, 
-and a Ph.D. holder in Control Science & Engineering from the Technical University of Munich and Harbin Engineering University.
-My expertise lies in the fields of Multi-Agent System, Machine Learning, Control Theory, Robotics, Data Representation, and Web Development.
+I am a Postdoctoral Researcher and Full-Stack Developer at Munich Institute of Robotics and Machine Intelligence, the Technical University of Munich (TUM) based in Munich, 
+and a Ph.D. holder in Control Science & Engineering from TUM and Harbin Engineering University.
+My expertise lies in the fields of Multi-Agent Systems, Machine Learning, Control Theory, Robotics, Data Representation, and Web Development.
 </p>
 
 <a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Homepage%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
@@ -14,7 +14,8 @@ My expertise lies in the fields of Multi-Agent System, Machine Learning, Control
 #### Research Project Code:
 [Grassian Process (GP) Illustration](https://github.com/alwinyang91/GPR-illustration); 
 [[AAAI 2025]: AsyncDGP](https://github.com/Xiaobing-Dai/GPgym); 
-[[AAMAS 2024]: Pri-GP](https://github.com/Zewen-Yang/Pri-GP)
+[[JAAMAS]: Online-Pri-GP](https://github.com/Zewen-Yang/Online-Pri-GP);
+[[AAMAS 2024]: Pri-GP](https://github.com/Zewen-Yang/Pri-GP);
 
 
 
